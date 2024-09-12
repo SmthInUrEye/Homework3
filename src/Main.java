@@ -22,7 +22,6 @@ short variable6 = 3056;
         );
 
 //Задача №2
-
 double var1 = 27.12;
 long var2 = 987678965549l;
 float var3 = 2.786f;
