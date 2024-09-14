@@ -64,7 +64,7 @@ int targetWeigth = 7*1000, UpperLimitPerDay = 500, LowerLimitPerDay = 250;
         "\n В среднем количество дней для похудения -  " + ((targetWeigth/UpperLimitPerDay) + (targetWeigth/UpperLimitPerDay)/2));
 
 //Задача №8
-int salaryM = 67760, salaryD = 83294, salaryK = 76230;
+int salaryM = 67760, salaryD = 83690, salaryK = 76230;
         System.out.println(
                 "\n Маша теперь получает " + salaryM*1.1 + ". Годовой доход вырос на " + (salaryM*1.1 - salaryM)*12 + " рублей" +
                 "\n Денис теперь получает " + salaryD*1.1 + ". Годовой доход вырос на " + (salaryD*1.1 - salaryD)*12 + " рублей" +
